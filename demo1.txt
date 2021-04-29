@@ -3,3 +3,6 @@ this was edited locally
 
 new feature-1 
 this is the new one
+
+new feature-2
+do thing and that
